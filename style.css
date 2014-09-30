@@ -1580,3 +1580,7 @@ li.comment {
 	content: " ";
 
 }
+/* Box for xxx */
+.box{
+	height: 100px;
+}
